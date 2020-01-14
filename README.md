@@ -1,2 +1,5 @@
-# es_laydate
-对laydate插件进行改造，使其可以用import的方式引入
+# layDate 5.0.9 日期时间控件
+
+http://www.layui.com/laydate/
+
+
