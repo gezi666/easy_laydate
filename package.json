@@ -1,0 +1,41 @@
+{
+  "name": "easy-laydate",
+  "version": "1.0.4",
+  "description": "You can use laydate through import",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --config ./webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gezi666/es_laydate.git"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.7.5",
+    "babel-loader": "^8.0.6",
+    "clean-webpack-plugin": "^3.0.0",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.10.1"
+  },
+  "keywords": [
+    "easy-laydate",
+    "easy",
+    "layui",
+    "laydate",
+    "timepicker",
+    "datepicker",
+    "time",
+    "date"
+  ],
+  "author": {
+    "name": "weige",
+    "email": "3129168699@qq.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gezi666/es_laydate/issues"
+  },
+  "homepage": "https://github.com/gezi666/es_laydate#readme"
+}
