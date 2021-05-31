@@ -1,6 +1,6 @@
 {
   "name": "easy-laydate",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "You can use laydate through import",
   "main": "dist/index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gezi666/es_laydate.git"
+    "url": "git+https://github.com/gezi666/easy_laydate.git"
   },
   "devDependencies": {
     "@babel/core": "^7.7.5",
@@ -35,7 +35,7 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gezi666/es_laydate/issues"
+    "url": "https://github.com/gezi666/easy_laydate/issues"
   },
-  "homepage": "https://github.com/gezi666/es_laydate#readme"
+  "homepage": "https://github.com/gezi666/easy_laydate#readme"
 }

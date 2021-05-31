@@ -1,5 +1,3 @@
-# easy-laydate
-
 You can use [laydate](http://www.layui.com/laydate/) through import
 
 # Install with npm
